@@ -1,0 +1,19 @@
+{
+  "name": "tokens",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "storybook": "^10.1.11",
+    "style-dictionary": "^5.1.4"
+  },
+  "dependencies": {
+    "sass": "^1.97.2"
+  }
+}
