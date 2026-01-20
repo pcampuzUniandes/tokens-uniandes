@@ -1,0 +1,12 @@
+{
+  "color": {
+    "neutral": {
+      "100": {
+        "value": "#FFFFFF"
+      },
+      "200": {
+        "value": "#F5F5F5"
+      }
+    }
+  }
+}
