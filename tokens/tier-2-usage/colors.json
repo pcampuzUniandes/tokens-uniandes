@@ -1,0 +1,9 @@
+{
+    "color":{
+        "content": {
+            "default": {
+                "value": "{color.neutral.900}"
+            }
+        }
+    }
+}
