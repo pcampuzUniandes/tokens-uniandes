@@ -1,8 +1,13 @@
 {
-    "color":{
+    "color": {
         "content": {
             "default": {
                 "value": "{color.neutral.900}"
+            }
+        },
+        "background": {
+            "default": {
+                "value": "{color.neutral.100}"
             }
         }
     }
